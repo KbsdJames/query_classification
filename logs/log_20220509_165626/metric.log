@@ -1,0 +1,5 @@
+Step:200	{"metric": {"eval_acc": 0.6220322886989553, "eval_loss": 0.6642787070835338}, "step": 200}
+Step:400	{"metric": {"eval_acc": 0.6951566951566952, "eval_loss": 0.5860436383415671}, "step": 400}
+Step:600	{"metric": {"eval_acc": 0.6970560303893637, "eval_loss": 0.569623820921954}, "step": 600}
+Step:800	{"metric": {"eval_acc": 0.724596391263058, "eval_loss": 0.5486940443515778}, "step": 800}
+Step:1000	{"metric": {"eval_acc": 0.7340930674264008, "eval_loss": 0.5478561836130479}, "step": 1000}

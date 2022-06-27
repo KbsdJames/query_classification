@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/root/CPT/finetune/classification/run_clue_classifier.py", line 45, in <module>
+    from data_processors import clue_output_modes, clue_processors
+  File "/root/CPT/finetune/classification/data_processors.py", line 5, in <module>
+    from fastNLP.io.loader import LCQMCLoader, ChnSentiCorpLoader, THUCNewsLoader
+ModuleNotFoundError: No module named 'fastNLP'

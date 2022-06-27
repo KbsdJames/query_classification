@@ -1,0 +1,17 @@
+Step:200	{"metric": {"eval_acc": 0.6581196581196581, "eval_loss": 0.6569328448351692}, "step": 200}
+Step:400	{"metric": {"eval_acc": 0.7132003798670465, "eval_loss": 0.5763359192539664}, "step": 400}
+Step:600	{"metric": {"eval_acc": 0.7027540360873694, "eval_loss": 0.574697312186746}, "step": 600}
+Step:800	{"metric": {"eval_acc": 0.7312440645773979, "eval_loss": 0.5494244414217332}, "step": 800}
+Step:1000	{"metric": {"eval_acc": 0.7331433998100665, "eval_loss": 0.5663995216874516}, "step": 1000}
+Step:1200	{"metric": {"eval_acc": 0.7274453941120608, "eval_loss": 0.5837488332215477}, "step": 1200}
+Step:1400	{"metric": {"eval_acc": 0.7236467236467237, "eval_loss": 0.621241387198953}, "step": 1400}
+Step:1600	{"metric": {"eval_acc": 0.7312440645773979, "eval_loss": 0.6627902335980359}, "step": 1600}
+Step:1800	{"metric": {"eval_acc": 0.7132003798670465, "eval_loss": 0.7164632502724143}, "step": 1800}
+Step:2000	{"metric": {"eval_acc": 0.7169990503323836, "eval_loss": 0.771168729838203}, "step": 2000}
+Step:2200	{"metric": {"eval_acc": 0.7169990503323836, "eval_loss": 0.8407421971068663}, "step": 2200}
+Step:2400	{"metric": {"eval_acc": 0.7065527065527065, "eval_loss": 0.898057288983289}, "step": 2400}
+Step:2600	{"metric": {"eval_acc": 0.7094017094017094, "eval_loss": 0.914209155475392}, "step": 2600}
+Step:2800	{"metric": {"eval_acc": 0.7169990503323836, "eval_loss": 0.9446921664125779}, "step": 2800}
+Step:3000	{"metric": {"eval_acc": 0.7141500474833808, "eval_loss": 0.9709602752152611}, "step": 3000}
+Step:3200	{"metric": {"eval_acc": 0.7141500474833808, "eval_loss": 0.9958232571096981}, "step": 3200}
+Step:3260	{"metric": {"eval_acc": 0.7160493827160493, "eval_loss": 0.9951782682362724}, "step": 3260}
